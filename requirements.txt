@@ -1,2 +1,7 @@
 Flask==2.0.2
 gunicorn
+langchain
+openai
+PyPDF2
+faiss-cpu
+tiktoken
