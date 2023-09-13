@@ -8,7 +8,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.llms import OpenAI
 
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
  
 app = Flask(__name__)
  
