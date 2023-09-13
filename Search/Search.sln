@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search", "Search.csproj", "{CBE0AF10-69EE-42A1-8A26-8C27AFE077F2}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Search", "Search.pyproj", "{031A2AB1-CDF1-4483-A0B7-3458CF474D26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CBE0AF10-69EE-42A1-8A26-8C27AFE077F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CBE0AF10-69EE-42A1-8A26-8C27AFE077F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CBE0AF10-69EE-42A1-8A26-8C27AFE077F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CBE0AF10-69EE-42A1-8A26-8C27AFE077F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{031A2AB1-CDF1-4483-A0B7-3458CF474D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031A2AB1-CDF1-4483-A0B7-3458CF474D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031A2AB1-CDF1-4483-A0B7-3458CF474D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031A2AB1-CDF1-4483-A0B7-3458CF474D26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1A50A250-D1B3-401C-9388-18F1071CB2AA}
+		SolutionGuid = {D4C23DA4-98DD-4E54-AD58-24DE544E3AD7}
 	EndGlobalSection
 EndGlobal
