@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'SharePointAIKnowledge'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_64DBE2032A854FB6AF21B93CD5BDD608 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D720EB25A41A4411B536F2680C7035C2 }}
